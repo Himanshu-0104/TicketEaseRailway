@@ -1,0 +1,78 @@
+#first{
+    border:0px;
+    height:auto;
+    width: 550px;
+    position:absolute;
+}
+#first #input1{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 300px;
+    margin:10px;
+}
+#second{
+    border:0px;
+    height:auto;
+    width:500px;
+    margin: 0px 0px 0px 795px;
+} 
+#second #input2{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 300px;
+    margin:10px;
+}
+#third{
+    border:0px;
+    height:auto;
+    width:500px;
+    /* position:absolute; */
+}
+#third #input3{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 600px;
+    margin:10px;
+}
+#fourth #input4{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 250px;
+    margin:10px;
+}
+#fifth #input5{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 200px;
+    margin:10px;
+}
+#sixth #input6{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 200px;
+    margin:10px;
+}
